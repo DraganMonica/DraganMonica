@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 
 
 I’m a Junior .NET Developer focused on building clean, scalable, and real-world web applications using **ASP.NET Core** and **Clean Architecture** principles.
 
