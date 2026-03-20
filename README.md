@@ -22,6 +22,7 @@ I enjoy building end-to-end applications — from database design and backend lo
 My projects include real-world scenarios such as e-commerce platforms, authentication systems, and modular applications using microservices and API-based communication.
 
 My Bachelor’s thesis focused on the automatic extraction of product attributes from e-commerce images, which strengthened my experience with data processing, AI models, and complex system design.
+
 Currently:
 - Building real-world .NET projects
 - Improving architecture, security, and deployment skills
